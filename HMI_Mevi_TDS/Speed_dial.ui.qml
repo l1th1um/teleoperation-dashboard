@@ -46,8 +46,8 @@ Item {
         font.letterSpacing: 2.875
         font.pixelSize: 72
         horizontalAlignment: Text.AlignHCenter
-        font.styleName: "Light"
-        font.family: "Cherry"
+        font.styleName: "SemiBold"
+        font.family: "Dosis"
     }
 
     Text {
@@ -61,8 +61,8 @@ Item {
         font.letterSpacing: 1.266
         font.pixelSize: 32
         horizontalAlignment: Text.AlignLeft
-        font.styleName: "ExtraLight"
-        font.family: "IBM Plex Mono"
+        font.styleName: "SemiBold"
+        font.family: "Dosis"
     }
 
     Item {
@@ -97,8 +97,8 @@ Item {
             font.letterSpacing: 1.156
             font.pixelSize: 29
             horizontalAlignment: Text.AlignLeft
-            font.styleName: "Thin"
-            font.family: "Exo 2"
+            font.styleName: "SemiBold"
+            font.family: "Dosis"
         }
 
         Text {
@@ -114,6 +114,21 @@ Item {
             horizontalAlignment: Text.AlignLeft
             font.styleName: "Thin"
             font.family: "Exo 2"
+        }
+
+        Text {
+            id: kph3
+            x: 429
+            y: 512
+            width: 28
+            height: 30
+            color: "#ffffff"
+            text: "20"
+            font.letterSpacing: 1.156
+            font.pixelSize: 29
+            horizontalAlignment: Text.AlignLeft
+            font.styleName: "SemiBold"
+            font.family: "Dosis"
         }
     }
 
@@ -377,13 +392,13 @@ D{i:2;uuid:"07caf3d3e692917e7293a95ed87b1433"}D{i:3;uuid:"f1e9049efd54245189d993
 D{i:4;uuid:"8ea8cd2709cd5f37e14df33910583633"}D{i:5;uuid:"2be402f2f5db838d6a6e4a989fcc104f"}
 D{i:6;uuid:"1173578a2c6a295399eb4d38687af003"}D{i:8;uuid:"17d6be4bd0165e398207fe119feb553c"}
 D{i:9;uuid:"465381ca02ca0faa6256e31aa20136a4"}D{i:10;uuid:"ab069a107c14acd5aa0dc5e587f13ed1"}
-D{i:7;uuid:"bfd372ae3aab14e2c12bca00c36758cd"}D{i:12;uuid:"833645c2fd37366e6d3470a610a518d9"}
-D{i:13;uuid:"c777cc09ce38e43f23e661e6ad858722"}D{i:14;uuid:"6d68e00414445c62dddddb7bbaed7c45"}
-D{i:15;uuid:"97821274b95449b504141c0b6c0e7355"}D{i:16;uuid:"38942c957361c46bc9575f543388da41"}
-D{i:17;uuid:"7e428f1f35e36cfae1493315dfa21e93"}D{i:18;uuid:"60f739ae2c0f18d6aa37b01ab071b4d9"}
-D{i:19;uuid:"5d7de5dfedf97cde006e8e61d5f976fc"}D{i:20;uuid:"e87d338e5990bbb50f696f97a3712170"}
-D{i:21;uuid:"36feffbaa76d1cd5f1db545eff8b4f45"}D{i:11;uuid:"3a7baf03f9cf11df1dedd005d6f2b7a4"}
-D{i:23}D{i:24;uuid:"514f793c66e6610a2f136b4d9b7a44d5"}D{i:26}
+D{i:11;uuid:"465381ca02ca0faa6256e31aa20136a4"}D{i:7;uuid:"bfd372ae3aab14e2c12bca00c36758cd"}
+D{i:13;uuid:"833645c2fd37366e6d3470a610a518d9"}D{i:14;uuid:"c777cc09ce38e43f23e661e6ad858722"}
+D{i:15;uuid:"6d68e00414445c62dddddb7bbaed7c45"}D{i:16;uuid:"97821274b95449b504141c0b6c0e7355"}
+D{i:17;uuid:"38942c957361c46bc9575f543388da41"}D{i:18;uuid:"7e428f1f35e36cfae1493315dfa21e93"}
+D{i:19;uuid:"60f739ae2c0f18d6aa37b01ab071b4d9"}D{i:20;uuid:"5d7de5dfedf97cde006e8e61d5f976fc"}
+D{i:21;uuid:"e87d338e5990bbb50f696f97a3712170"}D{i:22;uuid:"36feffbaa76d1cd5f1db545eff8b4f45"}
+D{i:12;uuid:"3a7baf03f9cf11df1dedd005d6f2b7a4"}D{i:25;uuid:"514f793c66e6610a2f136b4d9b7a44d5"}
 }
 ##^##*/
 

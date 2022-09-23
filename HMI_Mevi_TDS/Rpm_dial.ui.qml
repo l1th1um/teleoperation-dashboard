@@ -183,8 +183,8 @@ Item {
             font.letterSpacing: 1.156
             font.pixelSize: 29
             horizontalAlignment: Text.AlignLeft
-            font.styleName: "Thin"
-            font.family: "Exo 2"
+            font.styleName: "SemiBold"
+            font.family: "Dosis"
         }
 
         Text {
@@ -197,8 +197,8 @@ Item {
             text: "X"
             font.pixelSize: 29
             horizontalAlignment: Text.AlignLeft
-            font.styleName: "ExtraLight"
-            font.family: "IBM Plex Mono"
+            font.styleName: "SemiBold"
+            font.family: "Dosis"
         }
 
         Text {
@@ -212,8 +212,8 @@ Item {
             font.letterSpacing: 1.156
             font.pixelSize: 29
             horizontalAlignment: Text.AlignLeft
-            font.styleName: "ExtraLight"
-            font.family: "IBM Plex Mono"
+            font.styleName: "SemiBold"
+            font.family: "Dosis"
         }
 
         Text {
@@ -228,7 +228,7 @@ Item {
             font.pixelSize: 62
             horizontalAlignment: Text.AlignLeft
             font.styleName: "Light"
-            font.family: "Cherry"
+            font.family: "Dosis"
         }
     }
 
@@ -1142,8 +1142,8 @@ Item {
 /*##^##
 Designer {
     D{i:0;formeditorColor:"#000000";formeditorZoom:0.66;height:499;width:389}D{i:1;uuid:"735eb0fbca980a9ce47bbc673d6b3d6d_asset"}
-D{i:2;uuid:"d8c59210376ba0a686f2571b38c4ebee"}D{i:3}D{i:4}D{i:6;uuid:"1cf32f1a7003746476691b71dc8dd79c"}
-D{i:5}D{i:7;uuid:"3394f2227110ba49915a6785249465ea"}D{i:9;uuid:"5f8f188a651004eeebca2abdabe6bab2"}
+D{i:2;uuid:"d8c59210376ba0a686f2571b38c4ebee"}D{i:6;uuid:"1cf32f1a7003746476691b71dc8dd79c"}
+D{i:7;uuid:"3394f2227110ba49915a6785249465ea"}D{i:9;uuid:"5f8f188a651004eeebca2abdabe6bab2"}
 D{i:10;uuid:"a356bbc9a35d144f80c44a97bd392a8c"}D{i:11;uuid:"586d8b7954d3a835863331d666a02c54"}
 D{i:12;uuid:"dd00d42f33776d06dd8015b8f6fb0f98"}D{i:13;uuid:"0c2aeb199e9d67e401b29dfba1a69991"}
 D{i:14;uuid:"6856131816007faa1bb93c3266fa0776"}D{i:15;uuid:"591da942e6c09cce62cab864104c1dee"}
@@ -1159,7 +1159,6 @@ D{i:32;uuid:"92ebd8d0f50be2b5cece802770233815"}D{i:33;uuid:"907c59913d0315d22c2e
 D{i:34;uuid:"39e03d2e9a707dc3d27cb8c08de1c7ad"}D{i:35;uuid:"407da96d9b40230b33c66025b676f939"}
 D{i:36;uuid:"4d41b9874e3deb67898d52f581e4b25f"}D{i:37;uuid:"2ea41555f354f4e96606e07a233e36a8"}
 D{i:38;uuid:"2bb1c16b295ab175406fbf3e6056a868"}D{i:26;uuid:"bdf19c93363361bf6dae523563fb52ed"}
-D{i:39}
 }
 ##^##*/
 

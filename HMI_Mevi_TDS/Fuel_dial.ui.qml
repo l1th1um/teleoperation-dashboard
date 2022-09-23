@@ -82,8 +82,8 @@ Item {
             font.letterSpacing: 1.625
             font.pixelSize: 41
             horizontalAlignment: Text.AlignLeft
-            font.styleName: "Light"
-            font.family: "Cherry"
+            font.styleName: "SemiBold"
+            font.family: "Dosis"
         }
 
         Text {
@@ -97,8 +97,8 @@ Item {
             font.letterSpacing: 0.75
             font.pixelSize: 19
             horizontalAlignment: Text.AlignLeft
-            font.styleName: "ExtraLight"
-            font.family: "IBM Plex Mono"
+            font.styleName: "SemiBold"
+            font.family: "Dosis"
         }
     }
 
@@ -119,8 +119,8 @@ Item {
             font.letterSpacing: 1.625
             font.pixelSize: 41
             horizontalAlignment: Text.AlignLeft
-            font.styleName: "Light"
-            font.family: "Cherry"
+            font.styleName: "SemiBold"
+            font.family: "Dosis"
         }
 
         Text {
