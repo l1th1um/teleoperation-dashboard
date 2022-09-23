@@ -16,13 +16,15 @@ Item {
         id: brin_logo
         x: 1680
         y: 56
-        source: "assets/brin_logo.png"
+        width: 179
+        height: 240
+        source: "assets/brin_logo_white.png"
     }
 }
 
 /*##^##
 Designer {
-    D{i:0;uuid:"c3dc5d64d73d9449b2e9de6ce77b77d0"}D{i:1;uuid:"c3dc5d64d73d9449b2e9de6ce77b77d0_asset"}
+    D{i:0;formeditorZoom:0.5;uuid:"c3dc5d64d73d9449b2e9de6ce77b77d0"}D{i:1;uuid:"c3dc5d64d73d9449b2e9de6ce77b77d0_asset"}
 D{i:2;uuid:"589e766349bb1852e20f43d9723cd9cd"}
 }
 ##^##*/
